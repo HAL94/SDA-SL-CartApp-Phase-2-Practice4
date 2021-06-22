@@ -1,0 +1,44 @@
+<%- include('includes/head.ejs') %>
+    <link rel="stylesheet" href="/css/product-detail.css">
+    <script src="/jquery/dist/jquery.min.js"></script>    
+    
+</head>
+
+<body>
+    <%- include('includes/navigation.ejs') %>
+    <div class="container">
+        <div class="row">
+            <div class="col-12">
+                <div class="row" style="margin-top: 40px">
+                    <div class="col-12 col-md-12 col-lg-6">
+                        <div class="product-card__image">
+                            <img src="<%= product.imageUrl %>" alt="A nice Cart_On Product" width="400" height="400">
+                        </div>
+                    </div>
+                    <div class="col-12 col-md-12 col-lg-6">
+                        <div class="product__details">
+                            <h1><%= product.title %></h1>
+                            <h4 class="product__price">$<%= product.price %></h4>
+                            <p><%= product.description %></p>
+                        </div>                       
+                        <div class="product__actions">
+                            <div class="row">
+                                <form action="http://localhost:3000/cart/add", method="POST"
+                                 class="col-12" id="cart_form" onsubmit="addToCartByForm(event, '<%= JSON.stringify(product) %>')">
+                                    <div class="form-group col-6">
+                                        <label for="quantity">Quantity</label>
+                                        <input type="number" min="1" name="quantity" id="prod_quantity" value="1" class="form-control" required>
+                                    </div>
+                                    <div class="form-group col-6 mt-40">
+                                        <button class="cart-btn" type="submit" >Add To Cart</button>
+                                    </div>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="/js/cart.js"></script>
+<%- include('includes/end.ejs') %>

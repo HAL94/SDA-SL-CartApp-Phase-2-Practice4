@@ -1,0 +1,29 @@
+.product-card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 0 solid rgba(17, 17, 17, 0.125);
+}
+
+.product-card__image {
+  width: 100%;
+}
+
+.product-card__image img {
+  display: block;
+  margin: auto;
+  object-fit: contain;
+}
+
+.product__price {
+  color: #4d4d4d;
+  margin-bottom: 1.5rem;
+}
+
+.product__details {
+  margin-top: 20px;
+}

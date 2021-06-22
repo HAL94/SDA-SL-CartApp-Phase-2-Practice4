@@ -1,0 +1,65 @@
+[    
+    {
+        "id": 1,
+        "title": "ZORD OTRIX GAMING PC WITH RYZEN 3100 PROCESSOR",
+        "description": "AMD Ryzen 3 3100 Processor",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71ohW0LXsqL._AC_SX522_.jpg",
+        "price": 903.32
+    },
+    {
+        "id": 2,
+        "title": "Etude House Dear Darling Water Tint Lip Gloss Cherry",
+        "description": "Brand: Etude House - Type: Lipstick - Expirable: false",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51iwmMe6-rS._AC_SX569_.jpg",
+        "price": 4.64
+    },
+    {
+        "id": 3,
+        "title": "Screen protector, tempered glass for iPhone 11",
+        "description": "A very interesting book about so many even more interesting things!",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/51StdyIXuJL._AC_SX679_.jpg",
+        "price": 12.99
+    },
+    {
+        "id": 4,
+        "title": "HOMIX CAPPUCCINO MACHINE 1.25L 1470W 15BAR",
+        "description": "Brand: homixc - Color: Black - Package weight in KGs: 4300 grams - Form Factor: Powder - Model Number: 11111 - Type: Cappuccino Maker - External Product ID Type: EAN-13 - External Product ID: 11111",
+        "imageUrl": "https://m.media-amazon.com/images/I/416CdMGn0PL.jpg",
+        "price": 102.08
+    },
+    {
+        "id": 5,
+        "title": "Fifth Product",
+        "description": "A very interesting book about so many even more interesting things!",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71ohW0LXsqL._AC_SX522_.jpg",
+        "price": 12.99
+    },
+    {
+        "id": 6,
+        "title": "Sixth Product",
+        "description": "A very interesting book about so many even more interesting things!",
+        "imageUrl": "https://images-na.ssl-images-amazon.com/images/I/71ohW0LXsqL._AC_SX522_.jpg",
+        "price": 12.99
+    },
+    {
+        "id": 7,
+        "title": "Razer Hammerhead True Wireless - Wireless Earbuds (in-Ear Earphones, Ultra-Low Latency, Water-Repellent, 13 mm Driver, Touch Support, Bluetooth 5.0, Voice Control, Charging Case), black",
+        "description": "Ultra-Low Latency Connection: Its extremely low 60 ms input latency means audio won?t stutter and will stay synced, providing a competitive gaming",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/31z7HGxvvdL._AC_SX184_.jpg",
+        "price": 101.60
+    },
+    {
+        "id": 8,
+        "title": "Razer DeathAdder V2 - Wired USB Gaming Mouse with Optical Mouse Switches, Focus+ 20K Optical Sensor, 8 Programmable Buttons and Best-in-class Ergonomics, Black",
+        "description": "Ideal-in-class ergonomic shape: Through countless prototyping and testing Razer ergonomics scientists and designers have created the most comfortable, lightweight build that allows you to game at your ideal and for longer",
+        "imageUrl": "https://images-eu.ssl-images-amazon.com/images/I/41zvNAgm0+S._AC_SX184_.jpg",
+        "price": 63.33
+    },
+    {
+        "id": 9,
+        "title": "Razer BlackWidow V3 Mechanical Gaming Keyboard: Green Mechanical Switches - Tactile & Clicky - Chroma RGB Lighting - Compact Form Factor - Programmable Macro Functionality, Classic Black",
+        "description": "Signature Mechanical Switch for Gaming: Razer Green switch technology provides a satisfying clicky sound with 50 G of actuation force, ideal for typing and gaming requiring the highest accuracy Ultimate Personalization & Gaming Immersion with Razer Chroma: Fully syncs with popular games, Razer hardware, Philips Hue, and gear from 30 plus partners; supports 16.8 million colors on individually backlit keys",
+        "imageUrl": "https://m.media-amazon.com/images/I/61WgmLgwuQL._AC_UY218_.jpg",
+        "price": 85.49
+    }
+]
