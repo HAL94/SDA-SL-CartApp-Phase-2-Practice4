@@ -5,3 +5,8 @@ This is a work in part of Simplilearn's and Saudi Digital Academy Course: .NET F
 
 The main objective is a simple cart application using TypeScript that will perform basic CRUD operations of a cart.
 
+# About the Data Source
+The app is basically an NodeJS/Express server written with TypeScript, the data are stored in a JSON file to make things simple and portable for anyone to run the app.
+Each time the app refreshes it will reload to a default state and start again.
+
+
