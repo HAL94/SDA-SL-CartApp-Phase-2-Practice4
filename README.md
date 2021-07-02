@@ -10,8 +10,8 @@ The app is basically an NodeJS/Express server written with TypeScript, the data 
 Each time the app refreshes it will reload to a default state and start again.
 
 # How To Run
-I believe it would be preferable to run this without transpiling TypeScript to JavaScript. In ```package.json```, there is a script that will run the app in TypeScript, simply run:
+Firstly, run ```npm install``` in the project root folder.
 
-```npm run dev```
+Secondally, simply run: ```npm run dev```.
 
 
