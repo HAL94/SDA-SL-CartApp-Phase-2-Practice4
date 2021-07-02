@@ -14,4 +14,6 @@ Firstly, run ```npm install``` in the project root folder.
 
 Secondally, simply run: ```npm run dev```.
 
+Lastly, open your browser at: ```localhost:3000/```
+
 
